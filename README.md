@@ -13,6 +13,6 @@ $$dx/dt = \sigma*(y-x)$$
 
 $$dy/dt = x*(\rho-z)-y$$
 
-$$dz/dt = x*y-b*z$$
+$$dz/dt = (x*y-\beta*z)$$
 
 ### Double Pendulum
