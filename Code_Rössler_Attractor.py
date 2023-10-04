@@ -1,11 +1,11 @@
-# Rossler Attractor
+# Rössler Attractor
 
 import numpy as np
 from scipy.integrate import solve_ivp
 import matplotlib.pyplot as plt
 
 # Functon for Rossler Equations 
-def rossler(t,xyz,a,b,c):
+def rössler(t,xyz,a,b,c):
     x, y, z = xyz
     Dx=-y-z
     Dy=x+(a*y)
@@ -23,7 +23,7 @@ t_span = (0,1000)
 t_eval = np.linspace(*t_span, 1000000)
 
 #Chaos Data
-sol1 = solve_ivp(rossler, t_span, xyz1, args=(a,b,c), t_eval=t_eval)
+sol1 = solve_ivp(rössler, t_span, xyz1, args=(a,b,c), t_eval=t_eval)
 
 #Plotting
 fig = plt.figure(figsize=(12, 9))
@@ -32,5 +32,5 @@ ax.plot(sol1.y[0], sol1.y[1], sol1.y[2], lw=0.5)
 ax.set_xlabel('X')
 ax.set_ylabel('Y')
 ax.set_zlabel('Z')
-ax.set_title('Lorenz Attractor')
+ax.set_title('Rössler Attractor')
 plt.show()
