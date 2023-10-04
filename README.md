@@ -15,8 +15,8 @@ $$dy/dt = x*(\rho-z)-y$$
 
 $$dz/dt = x*y-\beta*z$$
 
-where x, y and z are the variables of the system, and \sigma, 
-\rho, and \beta are parameters. The system exhibits chaotic behavior for certain values of these parameters. In the code you provided, the parameters are set to \sigma = 10.0 ,\rho = 10.0 ,\beta = 8.0/3.0 which are the commonly used values to visualize the Lorenz attractor.
+where x, y and z are the variables of the system, and $\sigma$, 
+$\rho$, and $\beta$ are parameters. The system exhibits chaotic behavior for certain values of these parameters. In the code you provided, the parameters are set to $\sigma$ = 10.0 ,$\rho$ = 10.0 ,$\beta$ = 8.0 / 3.0 which are the commonly used values to visualize the Lorenz attractor.
 
 
 ### Double Pendulum
