@@ -5,7 +5,7 @@ Chaos theory is a branch of mathematics and physics that deals with complex syst
 Logistic map shows that the behavior of dynamic systems are highly sensitive to initial conditions. It illustrates how a simple nonlinear equation can lead to complex, unpredictable outcomes. 
 
 The logistic map is defined as:
-$$x_n+1=ax_n(1-x_n)$$
+$$x_n_+_1=ax_n(1-x_n)$$
 ![Figure_2](https://github.com/chinmay-projects/Chaos_Theory/assets/125910307/dc1012bb-5b85-4f39-90af-02591bedd22a)
 
 ## Rossler Attractor
