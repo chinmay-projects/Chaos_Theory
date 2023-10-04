@@ -2,9 +2,13 @@
 Chaos theory is a branch of mathematics and physics that deals with complex systems whose behavior is highly sensitive to initial conditions. It essential describes how relativily simple systems can exhibit extremely complex and unpredectible motion. 
 
 ## Logistic Map
+
+
 ![Figure_2](https://github.com/chinmay-projects/Chaos_Theory/assets/125910307/dc1012bb-5b85-4f39-90af-02591bedd22a)
 
 ## Rossler Attractor
+
+
 ![Figure_4](https://github.com/chinmay-projects/Chaos_Theory/assets/125910307/4cfa6e06-3bab-4278-981e-0a6967844dea)
 
 ## Lorentz Attractor (Butterfly Effect)
@@ -22,6 +26,6 @@ where x, y and z are the variables of the system, and $\sigma$, $\rho$, and $\be
 
 ![Figure_3](https://github.com/chinmay-projects/Chaos_Theory/assets/125910307/54a2ffd2-87fc-40c0-a8d7-e4477e2fb6e4)
 
-![Figure_1](https://github.com/chinmay-projects/Chaos_Theory/assets/125910307/7730f4c8-2a6e-4509-bb26-aacd496e1adf)
-
 ## Double Pendulum
+
+
