@@ -12,10 +12,9 @@ The Lorenz system of equations is given by:
 
 $$dx/dt = \sigma*(y-x)$$
 
-$$dy/dt = x*(\rho-z)-y$$
+$$dy/dt = x*( \rho -z)-y$$
 
-```math dz/dt = x*y-\beta*z
-```
+$$ dz/dt = x*y - \beta*z $$
 
 where x, y and z are the variables of the system, and $\sigma$, $\rho$, and $\beta$ are parameters. The system exhibits chaotic behavior for certain values of these parameters. In the code you provided, the parameters are set to $\sigma$ = 10.0 , $\rho$ = 28.0 , $\beta$ = 8.0 / 3.0 which are the commonly used values to visualize the Lorenz attractor.
 
