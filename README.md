@@ -11,8 +11,15 @@ $$x_m=ax_n(1-x_n) , m=n+1$$
 
 The plotted data vividly illustrates the sensitivity of the logistic map to initial conditions. Even a minute difference in the initial value leads to drastically different outcomes over iterations.
 
-## Rossler Attractor
+## Rössler Attractor
+The Rössler attractor is a  system of three non-linear ordinary differential equations and another fascinating example of chaotic behavior in dynamical systems.
+Rössler Equations are as follow :
+$$\frac{dx}{dt} = -y-z $$
 
+$$\frac{dy}{dt} = x + ay$$
+
+$$\frac{dz}{dt} = b+z \cdot(x-c)$$
+ The parameters a = 0.1, b = 0.1 and c = 14.0 were chosen to simulate the attractor. The resulting trajectory of the system was plotted in 3D space to visualize its behavior.
 
 ![Figure_5](https://github.com/chinmay-projects/Chaos_Theory/assets/125910307/d1e1fb0e-d21a-495d-92d6-bb42531682e0)
 
