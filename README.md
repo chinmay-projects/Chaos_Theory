@@ -10,7 +10,9 @@ The Lorenz attractor is a set of chaotic solutions to a system of three non-line
 The Lorenz system of equations is given by:
 
 $$dx/dt = \sigma*(y-x)$$
+
 $$dy/dt = x*(\rho-z)-y$$
-$$dz/dt = x*y-\beta*z$$
+
+$$ dz/dt = x*y-b*z $$
 
 ### Double Pendulum
