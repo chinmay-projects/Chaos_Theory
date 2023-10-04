@@ -7,6 +7,7 @@ Logistic map shows that the behavior of dynamic systems are highly sensitive to 
 The logistic map is defined as:
 $$x_m=ax_n(1-x_n)$$
 where m=n+1
+
 ![Figure_2](https://github.com/chinmay-projects/Chaos_Theory/assets/125910307/dc1012bb-5b85-4f39-90af-02591bedd22a)
 
 ## Rossler Attractor
