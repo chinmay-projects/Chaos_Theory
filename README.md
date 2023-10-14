@@ -39,5 +39,9 @@ where x, y and z are the variables of the system, and $\sigma$, $\rho$, and $\be
 ![Figure_3](https://github.com/chinmay-projects/Chaos_Theory/assets/125910307/54a2ffd2-87fc-40c0-a8d7-e4477e2fb6e4)
 
 ## Double Pendulum
+A double pendulum is a physical system where two pendulums are attached end-to-end. The motion of the second pendulum is influenced by the motion of the first pendulum, creating a complex and chaotic behavior. The equations governing the motion of a double pendulum are highly nonlinear and can exhibit sensitive dependence on initial conditions, leading to chaotic motion.
 
+The equations of motion for the double pendulum are derived from the Lagrangian of the system, which represents the difference between its kinetic and potential energies. The Lagrange's equations yield a set of second-order ordinary differential equations that describe how the angles and angular velocities of the pendulums change over time.
+
+$$\frac{dL}{d\theta_1}-frac{d^2 L}{dxd\theta^\cdot_1}
 
