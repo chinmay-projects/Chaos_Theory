@@ -43,5 +43,5 @@ A double pendulum is a physical system where two pendulums are attached end-to-e
 
 The equations of motion for the double pendulum are derived from the Lagrangian of the system, which represents the difference between its kinetic and potential energies. The Lagrange's equations yield a set of second-order ordinary differential equations that describe how the angles and angular velocities of the pendulums change over time.
 
-$$\frac{dL}{d\theta_1}-frac{d^2 L}{dxd\theta^\cdot_1}
+$$\frac{dL}{d\theta_1} - frac{d^2 L}{dxd\theta^\cdot_1} = 0 $$
 
