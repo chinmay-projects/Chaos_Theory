@@ -22,7 +22,6 @@ $$\frac{dy}{dt} = x + ay$$
 $$\frac{dz}{dt} = b+z \cdot(x-c)$$
  The parameters a = 0.1, b = 0.1 and c = 14.0 were chosen to simulate the attractor. The resulting trajectory of the system was plotted in 3D space to visualize its behavior.
 
-![Figure_5](https://github.com/chinmay-projects/Chaos_Theory/assets/125910307/d1e1fb0e-d21a-495d-92d6-bb42531682e0)
 
 ## Lorentz Attractor (Butterfly Effect)
 The Lorenz attractor is a set of chaotic solutions to a system of three non-linear differential equations. It was first studied by Edward Lorenz in 1963 as a simplified model of atmospheric convection, but it has since become a classic example of chaotic systems in mathematics and physics.
