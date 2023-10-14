@@ -7,7 +7,8 @@ Logistic map shows that the behavior of dynamic systems are highly sensitive to 
 The logistic map is defined as:
 $$x_m=ax_n(1-x_n) , m=n+1$$
 
-![Figure_2](https://github.com/chinmay-projects/Chaos_Theory/assets/125910307/dc1012bb-5b85-4f39-90af-02591bedd22a)
+![Figure_2](https://github.com/chinmay-projects/Chaos_Theory/assets/125910307/aaf2568b-cc36-464f-9b01-bf33e730a6b4)
+
 
 The plotted data vividly illustrates the sensitivity of the logistic map to initial conditions. Even a minute difference in the initial value leads to drastically different outcomes over iterations.
 
