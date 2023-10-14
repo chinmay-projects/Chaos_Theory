@@ -38,13 +38,13 @@ $$\frac{dz}{dt} = x \cdot y - \beta \cdot z$$
 
 where x, y and z are the variables of the system, and $\sigma$, $\rho$, and $\beta$ are parameters. The system exhibits chaotic behavior for certain values of these parameters. In the code you provided, the parameters are set to $\sigma$ = 10.0 , $\rho$ = 28.0 , $\beta$ = 8.0 / 3.0 which are the commonly used values to visualize the Lorenz attractor.
 
-![Figure_3](https://github.com/chinmay-projects/Chaos_Theory/assets/125910307/54a2ffd2-87fc-40c0-a8d7-e4477e2fb6e4)
+![Figure_3](https://github.com/chinmay-projects/Chaos_Theory/assets/125910307/d916d780-8db5-4da8-bcc8-4f6543cece82)
+
 
 ## Double Pendulum
 A double pendulum is a physical system where two pendulums are attached end-to-end. The motion of the second pendulum is influenced by the motion of the first pendulum, creating a complex and chaotic behavior. The equations governing the motion of a double pendulum are highly nonlinear and can exhibit sensitive dependence on initial conditions, leading to chaotic motion.
 
-
-
+![Free-body-diagram-of-the-double-pendulum](https://github.com/chinmay-projects/Chaos_Theory/assets/125910307/d64f599b-dd06-457d-83ec-2e3963dec0ca)
 
 The equations of motion for the double pendulum are derived from the Lagrangian of the system, which represents the difference between its kinetic and potential energies. The Lagrange's equations yield a set of second-order ordinary differential equations that describe how the angles and angular velocities of the pendulums change over time.
 
