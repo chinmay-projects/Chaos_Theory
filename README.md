@@ -20,7 +20,9 @@ $$\frac{dx}{dt} = -y-z $$
 $$\frac{dy}{dt} = x + ay$$
 
 $$\frac{dz}{dt} = b+z \cdot(x-c)$$
- The parameters a = 0.1, b = 0.1 and c = 14.0 were chosen to simulate the attractor. The resulting trajectory of the system was plotted in 3D space to visualize its behavior.
+
+The parameters a = 0.1, b = 0.1 and c = 14.0 were chosen to simulate the attractor. The resulting trajectory of the system was plotted in 3D space to visualize its behavior.
+![Figure_5](https://github.com/chinmay-projects/Chaos_Theory/assets/125910307/e8caf1a6-93a4-40ec-96b8-5e97e6595dbc)
 
 
 ## Lorentz Attractor (Butterfly Effect)
